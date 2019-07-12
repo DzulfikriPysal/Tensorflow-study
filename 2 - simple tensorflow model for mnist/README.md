@@ -5,7 +5,6 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 
 <p align="center">
 <img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" />
-Figure 1: Import MNIST Dataset
 </p>
 <br />
 <br />
@@ -13,35 +12,30 @@ Figure 1: Import MNIST Dataset
 <br />
 
 <img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
-Figure 2: Split The Dataset
 <br />
 <br />
 <br />
 <br />
 
 <img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
-Figure 3: Model Used
 <br />
 <br />
 <br />
 <br />
 
 <img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
-Figure 4: Compiling The Model
 <br />
 <br />
 <br />
 <br />
 
 <img src="screenshot/5.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
-Figure 5: Model Summary
 <br />
 <br />
 <br />
 <br />
 
 <img src="screenshot/6.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
-Figure 6: Model Training
 <br />
 
 <img src="screenshot/7.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
