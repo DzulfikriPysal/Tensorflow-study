@@ -3,10 +3,10 @@
 click this link to view the jupyter notebook incase error to open the jupyter notebook in GitHub LINK -> 
 https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20simple%20tensorflow%20model%20for%20mnist/Untitled.ipynb
 
-<center>
+<p align="center">
 <img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" />
 Figure 1: Import MNIST Dataset
-</center>
+</p>
 <br />
 <br />
 <br />
