@@ -12,7 +12,7 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 
 <p align="center">
-<img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+<img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
 </p>
 <br />
 <br />
@@ -20,7 +20,7 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 
 <p align="center">
-<img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+<img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
 </p>
 <br />
 <br />
@@ -28,7 +28,7 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 
 <p align="center">
-<img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+<img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
 </p>
 <br />
 <br />
@@ -44,7 +44,7 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 
 <p align="center">
-<img src="screenshot/6.PNG" data-canonical-src="screenshot/1.PNG" width="700"  />
+<img src="screenshot/6.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
 </p>
 <br />
 <br />
@@ -52,7 +52,7 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 
 <p align="center">
-<img src="screenshot/7.PNG" data-canonical-src="screenshot/1.PNG" width="700"  />
+<img src="screenshot/7.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
 </p>
 <br />
 <br />
