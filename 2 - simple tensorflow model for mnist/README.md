@@ -11,35 +11,50 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 <br />
 <br />
 
+<p align="center">
 <img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+</p>
 <br />
 <br />
 <br />
 <br />
 
+<p align="center">
 <img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+</p>
 <br />
 <br />
 <br />
 <br />
 
+<p align="center">
 <img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+</p>
 <br />
 <br />
 <br />
 <br />
 
+<p align="center">
 <img src="screenshot/5.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+</p>
 <br />
 <br />
 <br />
 <br />
 
+<p align="center">
 <img src="screenshot/6.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
+</p>
+<br />
+<br />
+<br />
 <br />
 
+<p align="center">
 <img src="screenshot/7.PNG" data-canonical-src="screenshot/1.PNG" width="400"  />
 Figure 7: Evaluate Model Performance
+</p>
 <br />
 <br />
 <br />
