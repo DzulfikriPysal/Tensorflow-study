@@ -11,7 +11,7 @@ First, is to get the MNIST dataset from collection of ready used dataset prepare
 <br />
 
 <p align="center">
-<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="400" />
+<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="350" />
 </p>
 <br />
 <br />
@@ -19,7 +19,7 @@ First, is to get the MNIST dataset from collection of ready used dataset prepare
 Then, load and split the dataset into training and test variable. Each of the training and  test will have it own data and label.
 
 <p align="center">
-<img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
+<img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="500"  />
 </p>
 <br />
 <br />
@@ -27,7 +27,7 @@ Then, load and split the dataset into training and test variable. Each of the tr
 After done with the data that will be used, then we prepared the deep learning model that will be used to train for the MNIST dataset. The model used will have 4 layer that connect together to form fully connected neural network.
 
 <p align="center">
-<img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
+<img src="screenshot/3.PNG" data-canonical-src="screenshot/1.PNG" width="500"  />
 </p>
 <br />
 <br />
@@ -35,7 +35,7 @@ After done with the data that will be used, then we prepared the deep learning m
 After done with the model, we need to compile the model before can be used for training.
 
 <p align="center">
-<img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="900"  />
+<img src="screenshot/4.PNG" data-canonical-src="screenshot/1.PNG" width="500"  />
 </p>
 <br />
 <br />
