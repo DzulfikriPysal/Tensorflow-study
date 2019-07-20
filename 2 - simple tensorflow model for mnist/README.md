@@ -8,12 +8,9 @@ This work is just to use tensorflow to create simple model with dense layer to t
 First, is to get the MNIST dataset from collection of ready used dataset prepared by tensorflow. MNIST is one of the popular used dataset  used for machine learning. MNIST (Modified National Institute of Standards and Technology) is a large database of handwritten digits that is commonly used for training various image processing systems.The data will be the collection of handwrittern digit from 0 until 9.
 
 <br />
-<br />
-
 <p align="center">
-<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="350" />
+<img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="300" />
 </p>
-<br />
 <br />
 
 Then, load and split the dataset into training and test variable. Each of the training and  test will have it own data and label.
@@ -21,7 +18,6 @@ Then, load and split the dataset into training and test variable. Each of the tr
 <p align="center">
 <img src="screenshot/2.PNG" data-canonical-src="screenshot/1.PNG" width="500"  />
 </p>
-<br />
 <br />
 
 After done with the data that will be used, then we prepared the deep learning model that will be used to train for the MNIST dataset. The model used will have 4 layer that connect together to form fully connected neural network.
