@@ -6,12 +6,9 @@ https://nbviewer.jupyter.org/github/Opapis/Tensorflow-study/blob/master/2%20-%20
 
 This work is just to use tensorflow to create simple model with dense layer to train on MNIST dataset provided by TensorFlow.
 First, is to get the MNIST dataset from collection of ready used dataset prepared by tensorflow. MNIST is one of the popular used dataset  used for machine learning. MNIST (Modified National Institute of Standards and Technology) is a large database of handwritten digits that is commonly used for training various image processing systems.The data will be the collection of handwrittern digit from 0 until 9.
-
-<br />
 <p align="center">
 <img src="screenshot/1.PNG" data-canonical-src="screenshot/1.PNG" width="300" />
 </p>
-
 Then, load and split the dataset into training and test variable. Each of the training and  test will have it own data and label.
 
 <p align="center">
